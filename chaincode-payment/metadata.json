@@ -1,0 +1,19 @@
+{
+    "contracts": [
+      {
+        "name": "PaymentContract",
+        "version": "1.0",
+        "transactions": [
+          {
+            "name": "CreateTransaction",
+            "parameters": ["id", "payer", "payee", "amount"]
+          },
+          {
+            "name": "QueryTransaction",
+            "parameters": ["id"]
+          }
+        ]
+      }
+    ]
+  }
+  
