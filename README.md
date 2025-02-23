@@ -65,7 +65,7 @@ payment-chaincode-demo/
 ターミナル（Mac、WSL2、または Git Bash）で次のコマンドを実行します。
 
 ```bash
-git clone https://github.com/yourusername/payment-chaincode-demo.git
+git clone https://github.com/yutarotakei/payment-chaincode-demo.git
 cd payment-chaincode-demo
 ```
 
