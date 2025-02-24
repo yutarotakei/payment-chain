@@ -4,6 +4,9 @@
 このプロジェクトは、Hyperledger Fabric を用いたブロックチェーン上での決済取引のデモ環境です。  
 ペイメント取引（送金・決済）を記録するためのシンプルな Node.js チェーンコードと、Fabric のテストネットワーク（test-network）を利用した環境構築手順を含みます。
 
+開発記事
+https://qiita.com/YutaroTex/items/23ad90fd0f478300eccf
+
 ## プロジェクト概要
 
 - **チェーンコード:**  
